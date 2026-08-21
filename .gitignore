@@ -31,3 +31,7 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### PASTA DO BACO DE DADOS ###
+/data
+/data2
